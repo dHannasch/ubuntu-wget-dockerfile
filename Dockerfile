@@ -1,4 +1,4 @@
-FROM ubuntu:devel
+FROM ubuntu:rolling
 
 ARG RAY_UID=1000
 ARG RAY_GID=100
